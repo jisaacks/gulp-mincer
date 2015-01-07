@@ -1,0 +1,23 @@
+{
+  "name": "gulp-mincer",
+  "version": "0.0.0",
+  "description": "Gulp Plugin for Mincer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jisaacks/gulp-mincer.git"
+  },
+  "keywords": [
+    "gulpplugin",
+    "mincer"
+  ],
+  "author": "JD Isaacks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisaacks/gulp-mincer/issues"
+  },
+  "homepage": "https://github.com/jisaacks/gulp-mincer"
+}
