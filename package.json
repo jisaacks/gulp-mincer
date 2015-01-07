@@ -1,6 +1,6 @@
 {
   "name": "gulp-mincer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Gulp Plugin for Mincer",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/jisaacks/gulp-mincer/issues"
   },
-  "homepage": "https://github.com/jisaacks/gulp-mincer"
+  "homepage": "https://github.com/jisaacks/gulp-mincer",
+  "dependencies": {
+    "gulp-util": "^3.0.2",
+    "through2": "^0.6.3"
+  }
 }
